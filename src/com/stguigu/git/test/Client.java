@@ -10,5 +10,8 @@ public class Client {
 		System.out.println("33333");
 		
 		System.out.println("sferf");
+		System.out.println("sferf");
+		System.out.println("sferf");
+		System.out.println("sferf");
 	}
 }
