@@ -16,6 +16,6 @@ public class Client {
 		
 		
 		System.out.println("sferfrtgtg");
-		System.out.println("²âÊÔÒ»ÏÂ");
+		System.out.println("æµ‹è¯•ä¾ç¨€");
 	}
 }
