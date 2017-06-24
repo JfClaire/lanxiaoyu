@@ -16,6 +16,6 @@ public class Client {
 		
 		
 		System.out.println("sferfrtgtg");
-		System.out.println("测试依稀");
+		System.out.println("测试意义");
 	}
 }
